@@ -1,0 +1,33 @@
+Lab Assignment Requirements
+==============================
+
+Add AJAX functionality to a working branch; push it to your repo:
+
+1. Create a repo on Github for this project (a NEW ONE) - call it A3_Lab1. Initialize it with a Readme.
+
+2. Using the Github GUI, create a new branch; edit the Readme (add some information about the project); merge the branch to master
+
+3. Copy the repo using the Clone This Repo button
+
+4. Use the Terminal navigate to the htdocs folder on a Mac or the www folder on a PC and clone the repo
+
+5. Create a new working branch (dev.addingAjax)
+
+6. Download and unpack the lab files into this folder
+
+7. Make the AJAX part functional (retrieve the data, populate the elements)
+
+8. Add, commit and push your changes back to the GitHub repo
+
+9. DO NOT merge your changes remotely
+
+10. Give yourselves a pat on the back - you did it!
+
+11. REMOVE YOUR WORKING FILES FROM YOUR LAB COMPUTER (IF USING) AND DUMP THE DATABASE
+
+And send me the link to your repo via FOL
+
+GRADING BREAKDOWN
+=====================
+
+There isn’t one. Pass/Fail. Worth marks, so do your best.
